@@ -7,8 +7,8 @@ This project demonstrates a simple machine learning workflow using the Iris data
 ```
 Assignment5-ML-Python/
 ├── environment.yml                  # Conda environment definition
-├── notebooks/
-│   └── machine-learning-in-python.ipynb  # Main notebook with modeling code
+├── machine-learning-in-python.ipynb # Main notebook with modeling code
+├── iris.csv                         # input data file
 └── README.md                        # Project documentation
 ```
 
