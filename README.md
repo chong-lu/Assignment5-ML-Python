@@ -33,6 +33,16 @@ Assignment5-ML-Python/
 * Accuracy used as the evaluation metric
 * `cross_val_score` from `sklearn.model_selection`
 
+## Python Packages Used
+
+The following packages are used in this project:
+
+* `matplotlib`
+* `numpy`
+* `scikit-learn`
+* `pandas`
+* `scipy`
+
 ## Getting Started
 
 ### Requirements
