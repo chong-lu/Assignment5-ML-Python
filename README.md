@@ -52,10 +52,10 @@ git clone https://github.com/chong-lu/Assignment5-ML-Python.git
 cd Assignment5-ML-Python
 ```
 
-2. Launch Jupyter Notebook:
+2. Launch Jupyter Lab:
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 3. Run each cell sequentially to reproduce the full analysis.
